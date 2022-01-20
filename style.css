@@ -80,6 +80,7 @@ section:not(:last-child) {
 
 .section-content {
     padding: 10px 20px 10px;
+    text-align: justify;
 }
 
 .section-title {
